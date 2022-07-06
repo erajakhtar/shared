@@ -399,8 +399,6 @@ drop-off in the number of listed public companies is primarily the
 result of changing dynamics in several key sectors: banking,
 industrials, and technology."[^5]
 
-\[*Continues*\]
-
 *Exhibit 3*
 
 ![](CrowdPoint_crwdtoken_2022/media/image1.png)
@@ -926,8 +924,6 @@ The following diagram visualizes the consensus groups residing around a
 circle, sorted by their leading binary digits. Any consensus group can
 quickly locate them through a kademlia "similar" routing protocol.
 
-\[*Continues*\]
-
 *Exhibit 6*
 
 ![Chart, radar chart Description automatically
@@ -1430,8 +1426,6 @@ transparent, and, as a result, less risky.
 >
 > Restriction Period: None
 
-\[*Continues*\]
-
 # Allocations 
 
 ## Allocation of Funds
@@ -1454,8 +1448,6 @@ following distinct categories:
 *Exhibit 8*
 
 ![](CrowdPoint_crwdtoken_2022/media/image6.png)
-
-\[*Continues*\]
 
 # Leadership Team
 
