@@ -1458,8 +1458,7 @@ following distinct categories:
 
 *Exhibit 8*
 
-![](CrowdPoint_crwdtoken_2022/media/image6.png){width="3.3694444444444445in"
-height="2.2395833333333335in"}
+![](CrowdPoint_crwdtoken_2022/media/image6.png)
 
 \[*Continues*\]
 
