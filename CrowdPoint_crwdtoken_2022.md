@@ -88,13 +88,13 @@ Computational Trust
 
 [Searching on Vogon 16](#searching-on-vogon)
 
-[Vogons Defending the Human Identity
-16](#vogons-defending-the-human-identity)
+[Vogon: Defending the Human Identity
+16](#vogon-defending-the-human-identity)
 
 [Vogon Design and Engineering 17](#vogon-design-and-engineering)
 
-[Vogons and Digital Transformation
-17](#vogons-and-digital-transformation)
+[Vogon and Digital Transformation
+17](#vogon-and-digital-transformation)
 
 [Additional Selected Intellectual Property developed by CrowdPoint
 17](#additional-selected-intellectual-property-developed-by-crowdpoint)
@@ -472,6 +472,12 @@ assets emerged as one portfolio solution." The survey results indicate
 that 42% of respondents are investing in digital assets, and 37% are
 investing in precious metals (see the chart below).[^8]
 
+*Exhibit 4*
+
+![](CrowdPoint_crwdtoken_2022/media/image7.png)
+
+*Source: Goldman Sachs.*
+
 ## CrowdPoint's Blockchain-enabled Solutions for Investors
 
 Indeed, investors can draw the logical conclusion that digital assets'
@@ -811,7 +817,7 @@ capacity.
 The power requirements for running Vogon on a machine are the same as
 running any standard piece of enterprise-grade software. This level of
 energy usage is no different from running data-intensive software
-services on Amazon Web Services, Microsoft Azure, and Google clouds.
+services on Amazon Web Services, Microsoft Azure, and Google Cloud.
 
 ## Vogon Security
 
@@ -826,7 +832,7 @@ indicating consensus group membership.
 Vogon creates a safer internet where the playing field is level, and
 massive internet companies cannot monopolize the lives of everyone
 through subjective and tyrannical practices such as censorship and
-de-platforming.[]{#_Toc107951364 .anchor}
+de-platforming.
 
 ## Towels: Vogon Microservices, Creating a Decentralized Cloud
 
@@ -886,9 +892,9 @@ other blocks in-flight intended for addition to the blockchain. This
 high-performance design is capable of processing thousands of
 transactions per second.
 
-As the number of Vogons grows past the optimal size for a consensus
+As the number of Vogon grows past the optimal size for a consensus
 group, the consensus group splits into two, each taking responsibility
-for half of the keyspace in the blockchain. The Vogons with keys
+for half of the keyspace in the blockchain. The Vogon with keys
 starting with a binary 0 go to one group, and those starting with a
 binary 1 go to the other group.
 
@@ -960,7 +966,7 @@ hash power to start rewriting the blockchain. Proof-of-stake is
 blockchains incorrectly reduce this to a social problem using voting or
 something equally ridiculous instead of crypto.
 
-## Vogons Defending the Human Identity
+## Vogon: Defending the Human Identity
 
 While very similar to kademlia, Vogon is not quite the same. Vogon does
 provide a way for millions of computers to self-organize into a network,
@@ -974,7 +980,7 @@ intelligent and faster-routing fabric than pure kademlia.
 Some transactions must cross address boundaries between multiple
 consensus groups, such as a transaction to exchange one cryptographic
 asset for another, where their addresses have sharded them into
-different consensus groups. When this happens, Vogons perform
+different consensus groups. When this happens, Vogon performs
 *meta-consensus,* a two-stage *atomic* operation that merges consensus
 decisions from two or more consensus groups.
 
@@ -998,7 +1004,7 @@ CrowdPoint's data scientists are authors and coauthors of hundreds of
 referenced papers, books, and distributed cooperative systems
 engineering experts.
 
-Vogons were designed from the ground up with the discipline and
+Vogon was designed from the ground up with the discipline and
 experience from such endeavors. The design allows it to work at an ad
 scale and potentially supplant or replace traditional public key
 infrastructure (PKI) such as digital certificates. The vision is even
@@ -1016,7 +1022,7 @@ CrowdPoint and its blockchain ecosystem partners proudly present this
 globally disruptive technology and business model implementation to the
 world.
 
-## Vogons and Digital Transformation
+## Vogon and Digital Transformation
 
 Digital transformation traditionally is the implementation of technology
 to create new --- or modify existing --- business processes, culture,
