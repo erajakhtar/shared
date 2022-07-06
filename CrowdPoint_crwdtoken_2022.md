@@ -204,7 +204,7 @@ Unlike other technology platforms operating today, CrowdPoint helps
 users who want to unlock value by fixing how people share data, building
 a better market, and empowering the community.
 
-To meet the stated goals, CrowdPoint developed the crwd\_^™^ product
+To meet the stated goals, CrowdPoint developed the crwd\_^™ product
 family as the consumer-facing vehicle on top of its proprietary,
 next-generation decentralized cryptographic cloud platform ---
 Vogon^™^.[^3]^,^[^4] This platform allows for better intelligence
