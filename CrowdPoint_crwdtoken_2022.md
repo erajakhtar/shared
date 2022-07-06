@@ -1,10 +1,6 @@
-**Powering Open,**
+## Powering Open, Honest, Stable Markets
 
-**Honest, Stable Markets**
-
-Sean Brehm, Nadab Akhtar, Eraj Akhtar,
-
-Wolf Kohn, and Daniel Guinan
+Sean Brehm, Nadab Akhtar, Eraj Akhtar, Wolf Kohn, and Daniel Guinan
 
 CrowdPoint Technologies[^1]
 
@@ -28,7 +24,7 @@ July 4, 2022
 > fintech-enabled delivery channels for the market, and empowering the
 > average user with powerful new tokenized asset classes.
 
-# Contents {#contents .TOC-Heading}
+# Contents
 
 [Abstract 1](#abstract)
 
@@ -407,7 +403,7 @@ industrials, and technology."[^5]
 
 *Exhibit 3*
 
-![](vertopal_b50390776a774f16a600005f1faa6b35/media/image1.png){width="4.42457895888014in"
+![](CrowdPoint_crwdtoken_2022/media/image1.png){width="4.42457895888014in"
 height="2.2in"}
 
 *Source: S&P Global; Corporate Performance Analytics by McKinsey.*
@@ -909,7 +905,7 @@ The below diagram visualizes the process:
 
 *Exhibit 5*
 
-![](vertopal_b50390776a774f16a600005f1faa6b35/media/image2.png){width="3.8326727909011375in"
+![](CrowdPoint_crwdtoken_2022/media/image2.png){width="3.8326727909011375in"
 height="2.1in"}
 
 The leading bits that identify the consensus groups act to segment or
@@ -1449,10 +1445,10 @@ type, purpose, and allocation of funds are as follows:
 
 *Exhibit 7*
 
-![](vertopal_b50390776a774f16a600005f1faa6b35/media/image4.png){width="3.3055555555555554in"
+![](CrowdPoint_crwdtoken_2022/media/image4.png){width="3.3055555555555554in"
 height="2.2319444444444443in"}
 
-![](vertopal_b50390776a774f16a600005f1faa6b35/media/image5.emf){width="2.283333333333333in"
+![](CrowdPoint_crwdtoken_2022/media/image5.emf){width="2.283333333333333in"
 height="1.6166666666666667in"}
 
 ## Allocation of Tokens
@@ -1462,7 +1458,7 @@ following distinct categories:
 
 *Exhibit 8*
 
-![](vertopal_b50390776a774f16a600005f1faa6b35/media/image6.png){width="3.3694444444444445in"
+![](CrowdPoint_crwdtoken_2022/media/image6.png){width="3.3694444444444445in"
 height="2.2395833333333335in"}
 
 \[*Continues*\]
