@@ -204,10 +204,10 @@ Unlike other technology platforms operating today, CrowdPoint helps
 users who want to unlock value by fixing how people share data, building
 a better market, and empowering the community.
 
-To meet the stated goals, CrowdPoint developed the crwd\_^™ product
+To meet the stated goals, CrowdPoint developed the crwd\_™ product
 family as the consumer-facing vehicle on top of its proprietary,
 next-generation decentralized cryptographic cloud platform ---
-Vogon^™^.[^3]^,^[^4] This platform allows for better intelligence
+Vogon™.[^3],[^4] This platform allows for better intelligence
 sharing, a delivery channel for Vogon-powered services, and incentive
 mechanisms to drive user growth.
 
@@ -434,7 +434,7 @@ staking.
 
 CrowdPoint's approach to DAOs is organizing private company activity in
 sub-industries according to the Global Industry Classification Standard
-(GICS^®^)[^7] (more detail to follow in this paper). By classifying
+(GICS®)[^7] (more detail to follow in this paper). By classifying
 economic activity and tracking it with crwd**units** and other digital
 assets, "DAOs" within CrowdPoint can effectively become next-generation
 exchange-traded funds (ETF) or exchange-traded notes (ETN).
@@ -587,7 +587,7 @@ Since 1972, when 24 brokers joined in organizing a securities
 marketplace, financial markets have continued to grow and expand. The
 core principles of the Buttonwood Agreement remained in place as the
 NYSE grew over this period. Brokers traded only with other brokers.
-However, as the 19^th^ century progressed, the exchange sold seats
+However, as the 19th century progressed, the exchange sold seats
 within or on the exchange to brokerage houses, and the number of
 brokerage houses increased. According to the Financial Industry
 Regulatory Authority (FINRA), there are approximately 3,500
@@ -608,9 +608,9 @@ innovation in markets. Each of the 24 sub-industries is part of the
 CrowdPoint blockchain ecosystem. As stated earlier in this paper,
 CrowdPoint is pioneering the evolution of free markets by developing an
 ecosystem on the blockchain. With CrowdPoint's ecosystem, the fear of
-speculators damaging market value as witnessed in the 19^th^ century,
+speculators damaging market value as witnessed in the 19th century,
 the Great Depression, the bursting dot-com, and housing bubbles of the
-late 20^th^ century becomes null. Investors will be able to analyze such
+late 20th century becomes null. Investors will be able to analyze such
 events with greater accuracy and take measures to minimize the effects
 they could produce. CrowdPoint's ecosystem, powered by blockchain
 technology, will enable investors to garner alternative real-time data
