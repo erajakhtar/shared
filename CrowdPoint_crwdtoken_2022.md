@@ -1,4 +1,4 @@
-## Powering Open, Honest, Stable Markets
+# Powering Open, Honest, Stable Markets
 
 Sean Brehm, Nadab Akhtar, Eraj Akhtar, Wolf Kohn, and Daniel Guinan
 
