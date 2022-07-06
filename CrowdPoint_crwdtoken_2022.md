@@ -403,8 +403,7 @@ industrials, and technology."[^5]
 
 *Exhibit 3*
 
-![](CrowdPoint_crwdtoken_2022/media/image1.png){width="4.42457895888014in"
-height="2.2in"}
+![](CrowdPoint_crwdtoken_2022/media/image1.png)
 
 *Source: S&P Global; Corporate Performance Analytics by McKinsey.*
 
@@ -905,8 +904,7 @@ The below diagram visualizes the process:
 
 *Exhibit 5*
 
-![](CrowdPoint_crwdtoken_2022/media/image2.png){width="3.8326727909011375in"
-height="2.1in"}
+![](CrowdPoint_crwdtoken_2022/media/image2.png)
 
 The leading bits that identify the consensus groups act to segment or
 *shard* the keyspace.
@@ -933,8 +931,7 @@ quickly locate them through a kademlia "similar" routing protocol.
 *Exhibit 6*
 
 ![Chart, radar chart Description automatically
-generated](vertopal_b50390776a774f16a600005f1faa6b35/media/image3.jpg){width="2.5in"
-height="2.5in"}
+generated](CrowdPoint_crwdtoken_2022/media/image3.jpg)
 
 *Source: Wikipedia.*[^12]
 
@@ -1445,11 +1442,9 @@ type, purpose, and allocation of funds are as follows:
 
 *Exhibit 7*
 
-![](CrowdPoint_crwdtoken_2022/media/image4.png){width="3.3055555555555554in"
-height="2.2319444444444443in"}
+![](CrowdPoint_crwdtoken_2022/media/image4.png)
 
-![](CrowdPoint_crwdtoken_2022/media/image5.emf){width="2.283333333333333in"
-height="1.6166666666666667in"}
+![](CrowdPoint_crwdtoken_2022/media/image5.png)
 
 ## Allocation of Tokens
 
